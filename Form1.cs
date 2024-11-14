@@ -5,6 +5,10 @@ namespace BibliotecaEnParejas
         public Form1()
         {
             InitializeComponent();
+            //aohfosdfosdifcvddddd
+            MessageBox.Show("aaa");
+            MessageBox.Show("aaa");
+            MessageBox.Show("aaa");
         }
     }
 }
