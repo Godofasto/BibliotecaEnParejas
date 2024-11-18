@@ -10,6 +10,6 @@ namespace BibliotecaEnParejas.Clases
     internal class Prestamos
 
     {
-
+        //isufbksdfo
     }
 }
