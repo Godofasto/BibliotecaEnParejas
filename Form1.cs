@@ -6,6 +6,7 @@ namespace BibliotecaEnParejas
         {
             InitializeComponent();
             //aohfosdfosdifcvddddd
+            //cipote
             MessageBox.Show("aaa");
             MessageBox.Show("aaa");
             MessageBox.Show("aaa");
